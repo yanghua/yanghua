@@ -23,3 +23,8 @@ Here are some ideas to get you started:
 - Ex-Flinker and universal Flink-Kafka connector author.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api?username=yanghua&show_icons=true&hide_title=true&hide_border=true)](https://github.com/yanghua)
+
+### Get in Touch 📫
+
+- 🐦&nbsp;Twitter: [@vinoyanghua](https://twitter.com/vinoyanghua)
+- E-mail: [vinoyang@apache.org](mailto:vinoyang@apache.org)
