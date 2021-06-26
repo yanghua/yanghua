@@ -27,4 +27,4 @@ Here are some ideas to get you started:
 ### Get in Touch 📫
 
 - 🐦&nbsp;Twitter: [@vinoyanghua](https://twitter.com/vinoyanghua)
-- E-mail: [vinoyang@apache.org](mailto:vinoyang@apache.org)
+- 📮&nbsp;E-mail: [vinoyang@apache.org](mailto:vinoyang@apache.org)
