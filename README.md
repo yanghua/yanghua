@@ -22,7 +22,11 @@ Here are some ideas to get you started:
 - Apache Kylin committer and Flink cube engine author.
 - Ex-Flinker and universal Flink-Kafka connector author.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api?username=yanghua&show_icons=true&hide_title=true&hide_border=true)](https://github.com/yanghua)
+<a href="https://github.com/yanghua">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yanghua&show_icons=true&theme=merko&count_private=true" alt="yanghua's github stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yanghua&theme=merko&layout=compact" alt="yanghua's github top languages" />
+</a>
+<br/>
 
 ### Get in Touch 📫
 
