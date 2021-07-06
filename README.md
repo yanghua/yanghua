@@ -37,6 +37,9 @@ Here are some ideas to get you started:
 #### Conference & Meetup Presentations
 - [The evolution of Tencent's real-time streaming computing platform](https://qcon.infoq.cn/2019/beijing/presentation/1497) @ QCon 2019 Beijing Station
 - [How to build an enterprise-level data lake based on Apache Hudi](https://qconplus.infoq.cn/2020/shanghai/presentation/2646) @ QCon+ 2020 Shanghai Station
+- [T3Go practices to build a low-latency data pipeline on the data lake](https://mp.weixin.qq.com/s/jfDDsdHV-qfouz-NlK_ZFQ) @ COSCon’20 & Apache Roadshow - China
+- [High-performance data lake with Apache Hudi and Alluxio at T3Go](https://www.alluxio.io/data-orchestration-summit-2020/#schedule) @ Data Orchestration Summit 2020
+- [Under the trend of convergence, a big data ecosystem based on Flink Kylin Hudi's lake and warehouse integration](https://developer.aliyun.com/article/783634) @ Flink Forward Asia 2020
 
 #### Engineering Blogs
   - [Beyond big data analysis: stream processing systems usher in a golden age](https://mp.weixin.qq.com/s/wnLkotjCdmK0pJCny1Yi1g) @ InfoQ blog 2020
