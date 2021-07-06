@@ -35,10 +35,10 @@ Here are some ideas to get you started:
 
 ### Talks & Writings 💬 📝
 #### Conference & Meetup Presentations
-
-TBD
+- [The evolution of Tencent's real-time streaming computing platform](https://qcon.infoq.cn/2019/beijing/presentation/1497) @ QCon 2019 Beijing Station
 
 #### Engineering Blogs
   - [Beyond big data analysis: stream processing systems usher in a golden age](https://mp.weixin.qq.com/s/wnLkotjCdmK0pJCny1Yi1g) @ InfoQ blog 2020
   - [How Hudi plays incremental processing on the data lake](https://mp.weixin.qq.com/s/5aQV_rcLZNOaeWn9w4RRbA) @ InfoQ blog 2020
+  - [The evolution of Tencent's real-time streaming computing platform](https://www.infoq.cn/article/6MhUVdkyxdlKULX6_z1V) @ InfoQ blog 2019
 
