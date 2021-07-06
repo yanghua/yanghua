@@ -36,6 +36,7 @@ Here are some ideas to get you started:
 ### Talks & Writings 💬 📝
 #### Conference & Meetup Presentations
 - [The evolution of Tencent's real-time streaming computing platform](https://qcon.infoq.cn/2019/beijing/presentation/1497) @ QCon 2019 Beijing Station
+- [How to build an enterprise-level data lake based on Apache Hudi](https://qconplus.infoq.cn/2020/shanghai/presentation/2646) @ QCon+ 2020 Shanghai Station
 
 #### Engineering Blogs
   - [Beyond big data analysis: stream processing systems usher in a golden age](https://mp.weixin.qq.com/s/wnLkotjCdmK0pJCny1Yi1g) @ InfoQ blog 2020
