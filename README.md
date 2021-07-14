@@ -35,7 +35,9 @@ Here are some ideas to get you started:
 
 ### Talks & Writings 💬 📝
 #### Conference & Meetup Presentations
+- [Tencent's practice of building a real-time streaming computing platform based on Flink](https://zhuanlan.zhihu.com/p/72169841) @ Apache Pulsar Meetup ShenZhen Station
 - [The evolution of Tencent's real-time streaming computing platform](https://qcon.infoq.cn/2019/beijing/presentation/1497) @ QCon 2019 Beijing Station
+- [Kylin's platformization and Flink engine practice in Tencent](https://zhuanlan.zhihu.com/p/89669786) @ Apache Kylin X Apache RocketMQ Meetup ShenZhen Station
 - [How to build an enterprise-level data lake based on Apache Hudi](https://qconplus.infoq.cn/2020/shanghai/presentation/2646) @ QCon+ 2020 Shanghai Station
 - [T3Go practices to build a low-latency data pipeline on the data lake](https://mp.weixin.qq.com/s/jfDDsdHV-qfouz-NlK_ZFQ) @ COSCon’20 & Apache Roadshow - China
 - [High-performance data lake with Apache Hudi and Alluxio at T3Go](https://www.alluxio.io/data-orchestration-summit-2020/#schedule) @ Data Orchestration Summit 2020
@@ -44,5 +46,6 @@ Here are some ideas to get you started:
 #### Engineering Blogs
   - [Beyond big data analysis: stream processing systems usher in a golden age](https://mp.weixin.qq.com/s/wnLkotjCdmK0pJCny1Yi1g) @ InfoQ blog 2020
   - [How Hudi plays incremental processing on the data lake](https://mp.weixin.qq.com/s/5aQV_rcLZNOaeWn9w4RRbA) @ InfoQ blog 2020
+  - [The past and present of Kylin Flink Cube engine](https://zhuanlan.zhihu.com/p/165266220) @ Apache Kylin 2020
   - [The evolution of Tencent's real-time streaming computing platform](https://www.infoq.cn/article/6MhUVdkyxdlKULX6_z1V) @ InfoQ blog 2019
 
