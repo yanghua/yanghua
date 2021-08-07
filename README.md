@@ -45,6 +45,7 @@ Here are some ideas to get you started:
 - [Under the trend of convergence, a big data ecosystem based on Flink Kylin Hudi's lake and warehouse integration](https://developer.aliyun.com/article/783634) @ FFA 2020
 
 #### Engineering Blogs
+  - [Apache Hudi - The Data Lake Platform](https://mp.weixin.qq.com/s/kj0wH34trDhmtWqOU7rkzQ) @ InfoQ blog 2021
   - [Beyond big data analysis: stream processing systems usher in a golden age](https://mp.weixin.qq.com/s/wnLkotjCdmK0pJCny1Yi1g) @ InfoQ blog 2020
   - [How Hudi plays incremental processing on the data lake](https://mp.weixin.qq.com/s/5aQV_rcLZNOaeWn9w4RRbA) @ InfoQ blog 2020
   - [The past and present of Kylin Flink Cube engine](https://zhuanlan.zhihu.com/p/165266220) @ Apache Kylin 2020
