@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 ### Get in Touch 📫
 
-- 🐦&nbsp;Twitter: [@vinoyanghua](https://twitter.com/vinoyanghua)
+- 🐦&nbsp;Twitter: [@vinoyanghua](https://twitter.com/vinoyang)
 - 📮&nbsp;E-mail: [vinoyang@apache.org](mailto:vinoyang@apache.org)
 
 ### Talks & Writings 💬 📝
