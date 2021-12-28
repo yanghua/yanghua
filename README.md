@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 
 - Apache Hudi PMC member and committer.
 - Apache Kylin committer and Flink cube engine author.
+- Apache Kyuubi committer.
 - Ex-Flinker and universal Flink-Kafka connector author.
 - LF Edge - EdgeXFoundry(edgex-go) contributor.
 
