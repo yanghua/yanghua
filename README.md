@@ -26,7 +26,6 @@ Here are some ideas to get you started:
 
 <a href="https://github.com/yanghua">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yanghua&show_icons=true&theme=merko&count_private=true" alt="yanghua's github stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yanghua&theme=merko&layout=compact" alt="yanghua's github top languages" />
 </a>
 <br/>
 
