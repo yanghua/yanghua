@@ -33,6 +33,7 @@ Here are some ideas to get you started:
 
 - 🐦&nbsp;Twitter: [@vinoyanghua](https://twitter.com/vinoyang)
 - 📮&nbsp;E-mail: [vinoyang@apache.org](mailto:vinoyang@apache.org)
+- 📮&nbsp;Newsletter: [Weekly newsletter of Vino Yang](https://www.getrevue.co/profile/vinoyang)
 
 ### Talks & Writings 💬 📝
 #### Conference & Meetup Presentations
