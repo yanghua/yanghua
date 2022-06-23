@@ -44,6 +44,7 @@ Here are some ideas to get you started:
 - [T3Go practices to build a low-latency data pipeline on the data lake](https://mp.weixin.qq.com/s/jfDDsdHV-qfouz-NlK_ZFQ) @ COSCon’20 & Apache Roadshow - China
 - [High-performance data lake with Apache Hudi and Alluxio at T3Go](https://www.alluxio.io/data-orchestration-summit-2020/#schedule) @ Data Orchestration Summit 2020
 - [Under the trend of convergence, a big data ecosystem based on Flink Kylin Hudi's lake and warehouse integration](https://developer.aliyun.com/article/783634) @ FFA 2020
+- [Publisher @ DataFun Summit 2022: Data Lake Technology Forum at the Big Data Storage Architecture Summit](https://mp.weixin.qq.com/s/IX_P09wW2PyMcEwpl0MjUw)
 
 #### Engineering Blogs
   - [Apache Hudi - The Data Lake Platform](https://mp.weixin.qq.com/s/kj0wH34trDhmtWqOU7rkzQ) @ InfoQ blog 2021
