@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 ### About Me 😄
 
 - Apache Hudi PMC member and committer.
-- Apache Kylin committer and Flink cube engine author.
-- Apache Kyuubi committer.
+- Apache Kyuubi PPMC member and committer.
+- Apache Kylin committer.
 - Ex-Flinker and universal Flink-Kafka connector author.
 - LF Edge - EdgeXFoundry(edgex-go) contributor.
 
